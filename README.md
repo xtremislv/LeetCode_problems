@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/xtremislv/LeetCode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/xtremislv/LeetCode_problems/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/xtremislv/LeetCode_problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3321-type-of-triangle](https://github.com/xtremislv/LeetCode_problems/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/3647-zero-array-transformation-iii) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/xtremislv/LeetCode_problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3321-type-of-triangle](https://github.com/xtremislv/LeetCode_problems/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/xtremislv/LeetCode_problems/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
