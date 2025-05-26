@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/xtremislv/LeetCode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3194-find-words-containing-character](https://github.com/xtremislv/LeetCode_problems/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/xtremislv/LeetCode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3194-find-words-containing-character](https://github.com/xtremislv/LeetCode_problems/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
