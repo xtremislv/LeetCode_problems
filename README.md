@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/xtremislv/LeetCode_problems/tree/master/3194-find-words-containing-character) |
+| [3447-clear-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2215-finding-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
