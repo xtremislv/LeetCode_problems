@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0073-set-matrix-zeroes) |
+| [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/xtremislv/LeetCode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/xtremislv/LeetCode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/xtremislv/LeetCode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/xtremislv/LeetCode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/xtremislv/LeetCode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
