@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/xtremislv/LeetCode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3639-zero-array-transformation-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
