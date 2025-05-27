@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/xtremislv/LeetCode_problems/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/xtremislv/LeetCode_problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/xtremislv/LeetCode_problems/tree/master/3321-type-of-triangle) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3639-zero-array-transformation-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/3647-zero-array-transformation-iii) |
 ## String
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
@@ -144,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/xtremislv/LeetCode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
