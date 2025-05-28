@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/xtremislv/LeetCode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/3647-zero-array-transformation-iii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/xtremislv/LeetCode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/xtremislv/LeetCode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
