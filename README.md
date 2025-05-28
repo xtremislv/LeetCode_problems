@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/xtremislv/LeetCode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/xtremislv/LeetCode_problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/xtremislv/LeetCode_problems/tree/master/3194-find-words-containing-character) |
