@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/xtremislv/LeetCode_problems/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/xtremislv/LeetCode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/xtremislv/LeetCode_problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/xtremislv/LeetCode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/xtremislv/LeetCode_problems/tree/master/0075-sort-colors) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/xtremislv/LeetCode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/xtremislv/LeetCode_problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0073-set-matrix-zeroes) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/xtremislv/LeetCode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/xtremislv/LeetCode_problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/xtremislv/LeetCode_problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/xtremislv/LeetCode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/xtremislv/LeetCode_problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/xtremislv/LeetCode_problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
