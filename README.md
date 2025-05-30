@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/xtremislv/LeetCode_problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/xtremislv/LeetCode_problems/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/xtremislv/LeetCode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/xtremislv/LeetCode_problems/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/xtremislv/LeetCode_problems/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/xtremislv/LeetCode_problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/xtremislv/LeetCode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
