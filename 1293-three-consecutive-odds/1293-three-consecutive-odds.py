@@ -1,14 +1,7 @@
 class Solution:
     def threeConsecutiveOdds(self, arr: List[int]) -> bool:
-        s =[]
-        for x in range(len(arr) -2):
-            q = arr[x]
-            w = arr[x+1]
-            e = arr[x+2]
-            if q % 2 != 0 and w % 2 !=0 and e % 2 != 0:
-                s.append(q)
+        for s in range(len(arr)-2):
+            if arr[s]%2 != 0 and arr[s+1]%2 != 0 and arr[s+2]%2!=0:
                 return True
-        
+            
         return False
-        
-        
