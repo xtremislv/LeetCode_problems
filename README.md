@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/xtremislv/LeetCode_problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/xtremislv/LeetCode_problems/tree/master/0135-candy) |
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/xtremislv/LeetCode_problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/xtremislv/LeetCode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/xtremislv/LeetCode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/xtremislv/LeetCode_problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/xtremislv/LeetCode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
