@@ -1,12 +1,9 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        unq =[]
-        for s in nums:
-            if s not in unq:
-                unq.append(s)
-        
-        while len(nums) >0:
-            nums.pop()
-        for a in unq:
-            nums.append(a)
-        return len(nums)
+        i = 1
+        for x in range(1,len(nums)):
+            if nums[x] != nums[i-1]:
+                nums[i] = nums[x]
+                i+= 1
+
+        return i
