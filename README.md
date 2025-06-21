@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xtremislv/LeetCode_problems/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/xtremislv/LeetCode_problems/tree/master/0075-sort-colors) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/xtremislv/LeetCode_problems/tree/master/0135-candy) |
