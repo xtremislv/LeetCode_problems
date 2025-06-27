@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/xtremislv/LeetCode_problems/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/xtremislv/LeetCode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/xtremislv/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/xtremislv/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
