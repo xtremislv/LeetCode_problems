@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/xtremislv/LeetCode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/xtremislv/LeetCode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/xtremislv/LeetCode_problems/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/xtremislv/LeetCode_problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0274-h-index) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/xtremislv/LeetCode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/xtremislv/LeetCode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/xtremislv/LeetCode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0189-rotate-array) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/xtremislv/LeetCode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/xtremislv/LeetCode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/xtremislv/LeetCode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/xtremislv/LeetCode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/xtremislv/LeetCode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/xtremislv/LeetCode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2280-count-good-triplets-in-an-array) |
