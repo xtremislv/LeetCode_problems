@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/xtremislv/LeetCode_problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/xtremislv/LeetCode_problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/xtremislv/LeetCode_problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/xtremislv/LeetCode_problems/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/xtremislv/LeetCode_problems/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/xtremislv/LeetCode_problems/tree/master/0068-text-justification) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/xtremislv/LeetCode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/xtremislv/LeetCode_problems/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/xtremislv/LeetCode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
