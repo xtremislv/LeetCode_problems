@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/xtremislv/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/xtremislv/LeetCode_problems/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/xtremislv/LeetCode_problems/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/xtremislv/LeetCode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/xtremislv/LeetCode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/xtremislv/LeetCode_problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/xtremislv/LeetCode_problems/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
