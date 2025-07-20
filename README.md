@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/xtremislv/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/xtremislv/LeetCode_problems/tree/master/0048-rotate-image) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/xtremislv/LeetCode_problems/tree/master/0224-basic-calculator) |
 | [2050-count-good-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/xtremislv/LeetCode_problems/tree/master/0141-linked-list-cycle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
