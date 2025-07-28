@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/xtremislv/LeetCode_problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/xtremislv/LeetCode_problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/xtremislv/LeetCode_problems/tree/master/0290-word-pattern) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/xtremislv/LeetCode_problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/xtremislv/LeetCode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/xtremislv/LeetCode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/xtremislv/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/xtremislv/LeetCode_problems/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/xtremislv/LeetCode_problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/xtremislv/LeetCode_problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/xtremislv/LeetCode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
