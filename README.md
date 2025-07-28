@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/xtremislv/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/xtremislv/LeetCode_problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/xtremislv/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/xtremislv/LeetCode_problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/xtremislv/LeetCode_problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/xtremislv/LeetCode_problems/tree/master/0290-word-pattern) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/xtremislv/LeetCode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/xtremislv/LeetCode_problems/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/xtremislv/LeetCode_problems/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/xtremislv/LeetCode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0212-word-search-ii) |
 | [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/xtremislv/LeetCode_problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -932,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/xtremislv/LeetCode_problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/xtremislv/LeetCode_problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/xtremislv/LeetCode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
