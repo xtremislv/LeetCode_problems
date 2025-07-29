@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/xtremislv/LeetCode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/xtremislv/LeetCode_problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/xtremislv/LeetCode_problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/xtremislv/LeetCode_problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/xtremislv/LeetCode_problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xtremislv/LeetCode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/xtremislv/LeetCode_problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/xtremislv/LeetCode_problems/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/xtremislv/LeetCode_problems/tree/master/0224-basic-calculator) |
 | [2050-count-good-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
