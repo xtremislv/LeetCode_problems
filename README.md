@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/xtremislv/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/xtremislv/LeetCode_problems/tree/master/0289-game-of-life) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/xtremislv/LeetCode_problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/xtremislv/LeetCode_problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xtremislv/LeetCode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
