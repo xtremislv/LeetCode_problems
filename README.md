@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0392-is-subsequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/xtremislv/LeetCode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/xtremislv/LeetCode_problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/xtremislv/LeetCode_problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/xtremislv/LeetCode_problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/xtremislv/LeetCode_problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/xtremislv/LeetCode_problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/xtremislv/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xtremislv/LeetCode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0172-factorial-trailing-zeroes) |
