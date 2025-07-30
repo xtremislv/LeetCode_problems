@@ -1162,4 +1162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/xtremislv/LeetCode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/xtremislv/LeetCode_problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
