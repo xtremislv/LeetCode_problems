@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/xtremislv/LeetCode_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/xtremislv/LeetCode_problems/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/xtremislv/LeetCode_problems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/xtremislv/LeetCode_problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0392-is-subsequence) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/xtremislv/LeetCode_problems/tree/master/0224-basic-calculator) |
+| [0279-perfect-squares](https://github.com/xtremislv/LeetCode_problems/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/xtremislv/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/xtremislv/LeetCode_problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/xtremislv/LeetCode_problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/xtremislv/LeetCode_problems/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
