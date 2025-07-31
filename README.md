@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/xtremislv/LeetCode_problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/xtremislv/LeetCode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1170-shortest-common-supersequence) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/xtremislv/LeetCode_problems/tree/master/1025-minimum-cost-for-tickets) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/xtremislv/LeetCode_problems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/xtremislv/LeetCode_problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/xtremislv/LeetCode_problems/tree/master/0222-count-complete-tree-nodes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/xtremislv/LeetCode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/xtremislv/LeetCode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/2308-divide-array-into-equal-pairs) |
