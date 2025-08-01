@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0739-daily-temperatures](https://github.com/xtremislv/LeetCode_problems/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/xtremislv/LeetCode_problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/xtremislv/LeetCode_problems/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/xtremislv/LeetCode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/xtremislv/LeetCode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/xtremislv/LeetCode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/xtremislv/LeetCode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/xtremislv/LeetCode_problems/tree/master/0739-daily-temperatures) |
 | [3001-apply-operations-to-maximize-score](https://github.com/xtremislv/LeetCode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
