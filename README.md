@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/xtremislv/LeetCode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/xtremislv/LeetCode_problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/xtremislv/LeetCode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/xtremislv/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/xtremislv/LeetCode_problems/tree/master/0169-majority-element) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/xtremislv/LeetCode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xtremislv/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/xtremislv/LeetCode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/xtremislv/LeetCode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0148-sort-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
