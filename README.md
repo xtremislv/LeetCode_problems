@@ -1095,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/xtremislv/LeetCode_problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/xtremislv/LeetCode_problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/xtremislv/LeetCode_problems/tree/master/0224-basic-calculator) |
 | [2050-count-good-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1169,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
 |  |
