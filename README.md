@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/xtremislv/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/xtremislv/LeetCode_problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0205-isomorphic-strings) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xtremislv/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0202-happy-number) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
 |  |
