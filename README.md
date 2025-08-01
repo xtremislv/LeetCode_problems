@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/xtremislv/LeetCode_problems/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/xtremislv/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/xtremislv/LeetCode_problems/tree/master/1813-maximum-erasure-value) |
