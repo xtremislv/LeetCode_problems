@@ -924,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/xtremislv/LeetCode_problems/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/xtremislv/LeetCode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/xtremislv/LeetCode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/xtremislv/LeetCode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/xtremislv/LeetCode_problems/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/xtremislv/LeetCode_problems/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
@@ -1228,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/xtremislv/LeetCode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/xtremislv/LeetCode_problems/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
 | [3001-apply-operations-to-maximize-score](https://github.com/xtremislv/LeetCode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
