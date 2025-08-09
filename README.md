@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/xtremislv/LeetCode_problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/xtremislv/LeetCode_problems/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/xtremislv/LeetCode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/xtremislv/LeetCode_problems/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/xtremislv/LeetCode_problems/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xtremislv/LeetCode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/xtremislv/LeetCode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/xtremislv/LeetCode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/xtremislv/LeetCode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/xtremislv/LeetCode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/xtremislv/LeetCode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/xtremislv/LeetCode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
