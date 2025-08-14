@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/xtremislv/LeetCode_problems/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/xtremislv/LeetCode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/xtremislv/LeetCode_problems/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2107-find-unique-binary-string](https://github.com/xtremislv/LeetCode_problems/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1227,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/xtremislv/LeetCode_problems/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/xtremislv/LeetCode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/xtremislv/LeetCode_problems/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/xtremislv/LeetCode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/xtremislv/LeetCode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1311,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/xtremislv/LeetCode_problems/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2280-count-good-triplets-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
