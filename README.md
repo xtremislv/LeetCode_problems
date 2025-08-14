@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/xtremislv/LeetCode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/xtremislv/LeetCode_problems/tree/master/1397-search-suggestions-system) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/xtremislv/LeetCode_problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
