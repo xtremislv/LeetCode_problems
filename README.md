@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/xtremislv/LeetCode_problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/xtremislv/LeetCode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/xtremislv/LeetCode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/xtremislv/LeetCode_problems/tree/master/1397-search-suggestions-system) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/xtremislv/LeetCode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
