@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2636-maximum-subsequence-score](https://github.com/xtremislv/LeetCode_problems/tree/master/2636-maximum-subsequence-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/xtremislv/LeetCode_problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/xtremislv/LeetCode_problems/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/xtremislv/LeetCode_problems/tree/master/2689-rearranging-fruits) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/xtremislv/LeetCode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/xtremislv/LeetCode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/xtremislv/LeetCode_problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2636-maximum-subsequence-score](https://github.com/xtremislv/LeetCode_problems/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/xtremislv/LeetCode_problems/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/xtremislv/LeetCode_problems/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/xtremislv/LeetCode_problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/xtremislv/LeetCode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2636-maximum-subsequence-score](https://github.com/xtremislv/LeetCode_problems/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/xtremislv/LeetCode_problems/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/xtremislv/LeetCode_problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2636-maximum-subsequence-score](https://github.com/xtremislv/LeetCode_problems/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/xtremislv/LeetCode_problems/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/xtremislv/LeetCode_problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
