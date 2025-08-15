@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/xtremislv/LeetCode_problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/xtremislv/LeetCode_problems/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/xtremislv/LeetCode_problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/xtremislv/LeetCode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/xtremislv/LeetCode_problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/xtremislv/LeetCode_problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/xtremislv/LeetCode_problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -1323,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/xtremislv/LeetCode_problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/xtremislv/LeetCode_problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2050-count-good-numbers) |
