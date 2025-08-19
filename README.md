@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/xtremislv/LeetCode_problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/xtremislv/LeetCode_problems/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/xtremislv/LeetCode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/xtremislv/LeetCode_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/xtremislv/LeetCode_problems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/xtremislv/LeetCode_problems/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -1350,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/xtremislv/LeetCode_problems/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/xtremislv/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
@@ -1587,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/xtremislv/LeetCode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Doubly-Linked List
 |  |
@@ -1701,4 +1706,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/xtremislv/LeetCode_problems/tree/master/0164-maximum-gap) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
