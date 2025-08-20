@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/xtremislv/LeetCode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/xtremislv/LeetCode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/xtremislv/LeetCode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/xtremislv/LeetCode_problems/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/xtremislv/LeetCode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/xtremislv/LeetCode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/xtremislv/LeetCode_problems/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/xtremislv/LeetCode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/xtremislv/LeetCode_problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/xtremislv/LeetCode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/2428-equal-row-and-column-pairs) |
