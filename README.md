@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/xtremislv/LeetCode_problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/xtremislv/LeetCode_problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/xtremislv/LeetCode_problems/tree/master/0290-word-pattern) |
@@ -1560,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0214-shortest-palindrome) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1604,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0214-shortest-palindrome) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/xtremislv/LeetCode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Doubly-Linked List
 |  |
@@ -1722,4 +1725,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
