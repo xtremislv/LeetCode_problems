@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/xtremislv/LeetCode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/xtremislv/LeetCode_problems/tree/master/1036-rotting-oranges) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/xtremislv/LeetCode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1041-available-captures-for-rook](https://github.com/xtremislv/LeetCode_problems/tree/master/1041-available-captures-for-rook) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/xtremislv/LeetCode_problems/tree/master/1042-minimum-cost-to-merge-stones) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/xtremislv/LeetCode_problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/xtremislv/LeetCode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/xtremislv/LeetCode_problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/xtremislv/LeetCode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/xtremislv/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0724-find-pivot-index) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/xtremislv/LeetCode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/xtremislv/LeetCode_problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/xtremislv/LeetCode_problems/tree/master/0940-fruit-into-baskets) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/xtremislv/LeetCode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xtremislv/LeetCode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -1467,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/xtremislv/LeetCode_problems/tree/master/0969-number-of-recent-calls) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/xtremislv/LeetCode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/xtremislv/LeetCode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/xtremislv/LeetCode_problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
