@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/xtremislv/LeetCode_problems/tree/master/0940-fruit-into-baskets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/xtremislv/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/xtremislv/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1017-odd-even-jump](https://github.com/xtremislv/LeetCode_problems/tree/master/1017-odd-even-jump) |
 | [1018-largest-perimeter-triangle](https://github.com/xtremislv/LeetCode_problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/xtremislv/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/xtremislv/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/xtremislv/LeetCode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/xtremislv/LeetCode_problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1046-max-consecutive-ones-iii) |
