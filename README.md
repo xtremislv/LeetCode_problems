@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/xtremislv/LeetCode_problems/tree/master/0940-fruit-into-baskets) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/xtremislv/LeetCode_problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1025-minimum-cost-for-tickets](https://github.com/xtremislv/LeetCode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/xtremislv/LeetCode_problems/tree/master/1028-interval-list-intersections) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/xtremislv/LeetCode_problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/xtremislv/LeetCode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/xtremislv/LeetCode_problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
