@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/xtremislv/LeetCode_problems/tree/master/0940-fruit-into-baskets) |
+| [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1087-longest-arithmetic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/xtremislv/LeetCode_problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/xtremislv/LeetCode_problems/tree/master/1025-minimum-cost-for-tickets) |
+| [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/xtremislv/LeetCode_problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1087-longest-arithmetic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/xtremislv/LeetCode_problems/tree/master/1105-uncrossed-lines) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/xtremislv/LeetCode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/xtremislv/LeetCode_problems/tree/master/1036-rotting-oranges) |
+| [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1041-available-captures-for-rook](https://github.com/xtremislv/LeetCode_problems/tree/master/1041-available-captures-for-rook) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/xtremislv/LeetCode_problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/xtremislv/LeetCode_problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/xtremislv/LeetCode_problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/xtremislv/LeetCode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/xtremislv/LeetCode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -980,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/xtremislv/LeetCode_problems/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1013-fibonacci-number) |
+| [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1236-n-th-tribonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1191,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
+| [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/xtremislv/LeetCode_problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1750,4 +1756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0218-the-skyline-problem) |
+## Bitmask
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
