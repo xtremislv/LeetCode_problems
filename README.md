@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/xtremislv/LeetCode_problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/xtremislv/LeetCode_problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/xtremislv/LeetCode_problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/xtremislv/LeetCode_problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/xtremislv/LeetCode_problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/xtremislv/LeetCode_problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0904-leaf-similar-trees) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/xtremislv/LeetCode_problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -1363,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/xtremislv/LeetCode_problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/1040-maximum-binary-tree-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
