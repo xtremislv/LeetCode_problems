@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/xtremislv/LeetCode_problems/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/xtremislv/LeetCode_problems/tree/master/1028-interval-list-intersections) |
 | [1031-add-to-array-form-of-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1032-satisfiability-of-equality-equations](https://github.com/xtremislv/LeetCode_problems/tree/master/1032-satisfiability-of-equality-equations) |
@@ -1156,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/xtremislv/LeetCode_problems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/xtremislv/LeetCode_problems/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/xtremislv/LeetCode_problems/tree/master/1041-available-captures-for-rook) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/xtremislv/LeetCode_problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/xtremislv/LeetCode_problems/tree/master/2048-build-array-from-permutation) |
