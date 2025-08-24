@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/xtremislv/LeetCode_problems/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/xtremislv/LeetCode_problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1087-longest-arithmetic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/xtremislv/LeetCode_problems/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/xtremislv/LeetCode_problems/tree/master/0900-reordered-power-of-2) |
+| [1034-subarrays-with-k-different-integers](https://github.com/xtremislv/LeetCode_problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/xtremislv/LeetCode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/xtremislv/LeetCode_problems/tree/master/1025-minimum-cost-for-tickets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/xtremislv/LeetCode_problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/xtremislv/LeetCode_problems/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/xtremislv/LeetCode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
@@ -1404,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/xtremislv/LeetCode_problems/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/xtremislv/LeetCode_problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/xtremislv/LeetCode_problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
