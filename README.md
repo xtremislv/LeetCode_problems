@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/xtremislv/LeetCode_problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/xtremislv/LeetCode_problems/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/xtremislv/LeetCode_problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/xtremislv/LeetCode_problems/tree/master/0871-keys-and-rooms) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/xtremislv/LeetCode_problems/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0310-minimum-height-trees) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/xtremislv/LeetCode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/xtremislv/LeetCode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/xtremislv/LeetCode_problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1309,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
@@ -1359,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/xtremislv/LeetCode_problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/xtremislv/LeetCode_problems/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/xtremislv/LeetCode_problems/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
