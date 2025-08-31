@@ -1046,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/xtremislv/LeetCode_problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/xtremislv/LeetCode_problems/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/xtremislv/LeetCode_problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/xtremislv/LeetCode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1785,6 +1786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/xtremislv/LeetCode_problems/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/xtremislv/LeetCode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Database
 |  |
