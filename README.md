@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/xtremislv/LeetCode_problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/xtremislv/LeetCode_problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/xtremislv/LeetCode_problems/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/xtremislv/LeetCode_problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/xtremislv/LeetCode_problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/xtremislv/LeetCode_problems/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/xtremislv/LeetCode_problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/xtremislv/LeetCode_problems/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/xtremislv/LeetCode_problems/tree/master/0969-number-of-recent-calls) |
@@ -1452,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/xtremislv/LeetCode_problems/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1624,6 +1627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/xtremislv/LeetCode_problems/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/xtremislv/LeetCode_problems/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2280-count-good-triplets-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1631,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/xtremislv/LeetCode_problems/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/xtremislv/LeetCode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
