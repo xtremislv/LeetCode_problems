@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/xtremislv/LeetCode_problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/xtremislv/LeetCode_problems/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/xtremislv/LeetCode_problems/tree/master/0383-ransom-note) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/xtremislv/LeetCode_problems/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/xtremislv/LeetCode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/xtremislv/LeetCode_problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/xtremislv/LeetCode_problems/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/xtremislv/LeetCode_problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/xtremislv/LeetCode_problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0392-is-subsequence) |
@@ -1744,6 +1747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/xtremislv/LeetCode_problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/xtremislv/LeetCode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
