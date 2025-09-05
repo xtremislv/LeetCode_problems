@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/xtremislv/LeetCode_problems/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/xtremislv/LeetCode_problems/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/xtremislv/LeetCode_problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/xtremislv/LeetCode_problems/tree/master/0871-keys-and-rooms) |
@@ -1359,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/xtremislv/LeetCode_problems/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
@@ -1928,4 +1930,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/xtremislv/LeetCode_problems/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
