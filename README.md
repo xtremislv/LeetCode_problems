@@ -1099,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/xtremislv/LeetCode_problems/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0365-water-and-jug-problem) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -1398,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/xtremislv/LeetCode_problems/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/xtremislv/LeetCode_problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0437-path-sum-iii) |
@@ -1450,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/xtremislv/LeetCode_problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
