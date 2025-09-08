@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/xtremislv/LeetCode_problems/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/xtremislv/LeetCode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/xtremislv/LeetCode_problems/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/xtremislv/LeetCode_problems/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/xtremislv/LeetCode_problems/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -1991,4 +1993,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/xtremislv/LeetCode_problems/tree/master/0332-reconstruct-itinerary) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
