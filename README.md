@@ -1117,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/xtremislv/LeetCode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/xtremislv/LeetCode_problems/tree/master/0382-linked-list-random-node) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -1829,6 +1830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/xtremislv/LeetCode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/xtremislv/LeetCode_problems/tree/master/0382-linked-list-random-node) |
 ## Linked List
 |  |
 | ------- |
@@ -1859,6 +1861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/xtremislv/LeetCode_problems/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/xtremislv/LeetCode_problems/tree/master/0382-linked-list-random-node) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -2010,4 +2013,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/xtremislv/LeetCode_problems/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
