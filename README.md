@@ -1103,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/xtremislv/LeetCode_problems/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/xtremislv/LeetCode_problems/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -1557,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/xtremislv/LeetCode_problems/tree/master/0372-super-pow) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
