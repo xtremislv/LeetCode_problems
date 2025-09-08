@@ -1100,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/xtremislv/LeetCode_problems/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -1627,6 +1628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/xtremislv/LeetCode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/xtremislv/LeetCode_problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/xtremislv/LeetCode_problems/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
