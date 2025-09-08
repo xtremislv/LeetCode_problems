@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/xtremislv/LeetCode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/xtremislv/LeetCode_problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/xtremislv/LeetCode_problems/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/xtremislv/LeetCode_problems/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/xtremislv/LeetCode_problems/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/xtremislv/LeetCode_problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/xtremislv/LeetCode_problems/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/xtremislv/LeetCode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xtremislv/LeetCode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
