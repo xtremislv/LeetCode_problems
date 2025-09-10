@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/xtremislv/LeetCode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/xtremislv/LeetCode_problems/tree/master/0443-string-compression) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/xtremislv/LeetCode_problems/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/xtremislv/LeetCode_problems/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/xtremislv/LeetCode_problems/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/xtremislv/LeetCode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/xtremislv/LeetCode_problems/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/xtremislv/LeetCode_problems/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/xtremislv/LeetCode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
