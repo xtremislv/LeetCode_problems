@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/xtremislv/LeetCode_problems/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/xtremislv/LeetCode_problems/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/xtremislv/LeetCode_problems/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/xtremislv/LeetCode_problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0410-split-array-largest-sum) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/xtremislv/LeetCode_problems/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/xtremislv/LeetCode_problems/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/xtremislv/LeetCode_problems/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/xtremislv/LeetCode_problems/tree/master/0406-queue-reconstruction-by-height) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/xtremislv/LeetCode_problems/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/xtremislv/LeetCode_problems/tree/master/0400-nth-digit) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
