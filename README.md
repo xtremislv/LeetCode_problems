@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/xtremislv/LeetCode_problems/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/xtremislv/LeetCode_problems/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/xtremislv/LeetCode_problems/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/xtremislv/LeetCode_problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0410-split-array-largest-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xtremislv/LeetCode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/xtremislv/LeetCode_problems/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xtremislv/LeetCode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
@@ -1033,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/xtremislv/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/xtremislv/LeetCode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/xtremislv/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -1694,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/xtremislv/LeetCode_problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/xtremislv/LeetCode_problems/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/xtremislv/LeetCode_problems/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1046-max-consecutive-ones-iii) |
