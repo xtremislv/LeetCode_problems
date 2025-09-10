@@ -1130,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/xtremislv/LeetCode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/xtremislv/LeetCode_problems/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0390-elimination-game) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -1765,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/xtremislv/LeetCode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/xtremislv/LeetCode_problems/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/2050-count-good-numbers) |
