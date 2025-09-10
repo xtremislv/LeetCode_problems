@@ -836,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/xtremislv/LeetCode_problems/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/xtremislv/LeetCode_problems/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/xtremislv/LeetCode_problems/tree/master/0401-binary-watch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -1401,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0216-combination-sum-iii) |
 | [0306-additive-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/xtremislv/LeetCode_problems/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/xtremislv/LeetCode_problems/tree/master/1030-smallest-string-starting-from-leaf) |
