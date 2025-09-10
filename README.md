@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/xtremislv/LeetCode_problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1597,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/xtremislv/LeetCode_problems/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -1617,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/xtremislv/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/xtremislv/LeetCode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
