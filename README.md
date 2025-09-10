@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/xtremislv/LeetCode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/xtremislv/LeetCode_problems/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/xtremislv/LeetCode_problems/tree/master/0443-string-compression) |
@@ -1166,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/xtremislv/LeetCode_problems/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/xtremislv/LeetCode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/xtremislv/LeetCode_problems/tree/master/0412-fizz-buzz) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -1349,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/xtremislv/LeetCode_problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/xtremislv/LeetCode_problems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/xtremislv/LeetCode_problems/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/xtremislv/LeetCode_problems/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/1027-sum-of-even-numbers-after-queries) |
