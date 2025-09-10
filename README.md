@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/xtremislv/LeetCode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/xtremislv/LeetCode_problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/xtremislv/LeetCode_problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/xtremislv/LeetCode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0435-non-overlapping-intervals) |
@@ -1131,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/xtremislv/LeetCode_problems/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -1927,6 +1930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/xtremislv/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/xtremislv/LeetCode_problems/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
@@ -2022,6 +2026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/xtremislv/LeetCode_problems/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
 | [1028-interval-list-intersections](https://github.com/xtremislv/LeetCode_problems/tree/master/1028-interval-list-intersections) |
 ## Bitmask
 |  |
