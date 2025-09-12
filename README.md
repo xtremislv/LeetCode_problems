@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/xtremislv/LeetCode_problems/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
+| [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/xtremislv/LeetCode_problems/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/xtremislv/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/xtremislv/LeetCode_problems/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/xtremislv/LeetCode_problems/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/xtremislv/LeetCode_problems/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -1538,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/xtremislv/LeetCode_problems/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/xtremislv/LeetCode_problems/tree/master/1030-smallest-string-starting-from-leaf) |
