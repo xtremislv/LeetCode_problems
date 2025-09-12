@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/xtremislv/LeetCode_problems/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/xtremislv/LeetCode_problems/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/xtremislv/LeetCode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/xtremislv/LeetCode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/xtremislv/LeetCode_problems/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -1230,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/xtremislv/LeetCode_problems/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -2179,6 +2183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
 | [1038-number-of-squareful-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/1038-number-of-squareful-arrays) |
 ## Eulerian Circuit
 |  |
@@ -2188,6 +2193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
 | [3462-vowels-game-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/3462-vowels-game-in-a-string) |
 ## Reservoir Sampling
 |  |
