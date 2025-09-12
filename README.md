@@ -1258,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/xtremislv/LeetCode_problems/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/xtremislv/LeetCode_problems/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/xtremislv/LeetCode_problems/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/xtremislv/LeetCode_problems/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1031-add-to-array-form-of-integer) |
@@ -2024,6 +2025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0398-random-pick-index) |
 | [0903-implement-rand10-using-rand7](https://github.com/xtremislv/LeetCode_problems/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/xtremislv/LeetCode_problems/tree/master/0915-generate-random-point-in-a-circle) |
 ## Linked List
 |  |
 | ------- |
@@ -2107,6 +2109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/xtremislv/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/xtremislv/LeetCode_problems/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
+| [0915-generate-random-point-in-a-circle](https://github.com/xtremislv/LeetCode_problems/tree/master/0915-generate-random-point-in-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
@@ -2231,4 +2234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/xtremislv/LeetCode_problems/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/xtremislv/LeetCode_problems/tree/master/0915-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
