@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
@@ -1032,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/xtremislv/LeetCode_problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1343,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/xtremislv/LeetCode_problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/xtremislv/LeetCode_problems/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/xtremislv/LeetCode_problems/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -1820,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/xtremislv/LeetCode_problems/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/xtremislv/LeetCode_problems/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/xtremislv/LeetCode_problems/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0907-koko-eating-bananas](https://github.com/xtremislv/LeetCode_problems/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1046-max-consecutive-ones-iii) |
