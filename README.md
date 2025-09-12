@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/xtremislv/LeetCode_problems/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/xtremislv/LeetCode_problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/xtremislv/LeetCode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0543-diameter-of-binary-tree) |
@@ -1430,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/xtremislv/LeetCode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/xtremislv/LeetCode_problems/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
@@ -1528,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/xtremislv/LeetCode_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/xtremislv/LeetCode_problems/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/xtremislv/LeetCode_problems/tree/master/0547-number-of-provinces) |
@@ -1583,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/xtremislv/LeetCode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xtremislv/LeetCode_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/xtremislv/LeetCode_problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1643,6 +1648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/xtremislv/LeetCode_problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0543-diameter-of-binary-tree) |
@@ -2018,6 +2024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/xtremislv/LeetCode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0783-search-in-a-binary-search-tree) |
