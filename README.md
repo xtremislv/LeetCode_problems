@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/xtremislv/LeetCode_problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/xtremislv/LeetCode_problems/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/xtremislv/LeetCode_problems/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0488-zuma-game) |
+| [0500-keyboard-row](https://github.com/xtremislv/LeetCode_problems/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
