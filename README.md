@@ -1255,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/xtremislv/LeetCode_problems/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/xtremislv/LeetCode_problems/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/xtremislv/LeetCode_problems/tree/master/0483-smallest-good-base) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -1834,6 +1835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/xtremislv/LeetCode_problems/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/xtremislv/LeetCode_problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/xtremislv/LeetCode_problems/tree/master/0483-smallest-good-base) |
 | [0907-koko-eating-bananas](https://github.com/xtremislv/LeetCode_problems/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1046-max-consecutive-ones-iii) |
