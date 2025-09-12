@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/xtremislv/LeetCode_problems/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/xtremislv/LeetCode_problems/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
@@ -1544,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/xtremislv/LeetCode_problems/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/xtremislv/LeetCode_problems/tree/master/1030-smallest-string-starting-from-leaf) |
