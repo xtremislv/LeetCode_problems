@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/xtremislv/LeetCode_problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/xtremislv/LeetCode_problems/tree/master/0447-number-of-boomerangs) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/xtremislv/LeetCode_problems/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/xtremislv/LeetCode_problems/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xtremislv/LeetCode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/xtremislv/LeetCode_problems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/xtremislv/LeetCode_problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/xtremislv/LeetCode_problems/tree/master/0447-number-of-boomerangs) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
