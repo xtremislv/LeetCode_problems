@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/xtremislv/LeetCode_problems/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
@@ -1449,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/xtremislv/LeetCode_problems/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
@@ -2018,6 +2020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/xtremislv/LeetCode_problems/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -2033,6 +2036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Search Tree
 |  |
