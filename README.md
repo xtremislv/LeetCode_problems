@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/xtremislv/LeetCode_problems/tree/master/0477-total-hamming-distance) |
+| [0485-max-consecutive-ones](https://github.com/xtremislv/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
