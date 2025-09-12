@@ -1252,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/xtremislv/LeetCode_problems/tree/master/0477-total-hamming-distance) |
+| [0479-largest-palindrome-product](https://github.com/xtremislv/LeetCode_problems/tree/master/0479-largest-palindrome-product) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/xtremislv/LeetCode_problems/tree/master/0479-largest-palindrome-product) |
 | [0900-reordered-power-of-2](https://github.com/xtremislv/LeetCode_problems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/xtremislv/LeetCode_problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/xtremislv/LeetCode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
