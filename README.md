@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/xtremislv/LeetCode_problems/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
+| [0466-count-the-repetitions](https://github.com/xtremislv/LeetCode_problems/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/xtremislv/LeetCode_problems/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/xtremislv/LeetCode_problems/tree/master/0459-repeated-substring-pattern) |
+| [0466-count-the-repetitions](https://github.com/xtremislv/LeetCode_problems/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
