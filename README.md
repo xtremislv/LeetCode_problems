@@ -759,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/xtremislv/LeetCode_problems/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
