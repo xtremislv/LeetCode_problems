@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/xtremislv/LeetCode_problems/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xtremislv/LeetCode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
@@ -1210,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/xtremislv/LeetCode_problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/xtremislv/LeetCode_problems/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
