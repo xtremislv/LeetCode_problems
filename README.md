@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/xtremislv/LeetCode_problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/xtremislv/LeetCode_problems/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/xtremislv/LeetCode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
