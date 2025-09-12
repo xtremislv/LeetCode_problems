@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/xtremislv/LeetCode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/xtremislv/LeetCode_problems/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
@@ -1220,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/xtremislv/LeetCode_problems/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0458-poor-pigs](https://github.com/xtremislv/LeetCode_problems/tree/master/0458-poor-pigs) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -1864,6 +1866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/xtremislv/LeetCode_problems/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/xtremislv/LeetCode_problems/tree/master/0458-poor-pigs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/xtremislv/LeetCode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3201-distribute-candies-among-children-ii) |
