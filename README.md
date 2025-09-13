@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/xtremislv/LeetCode_problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/xtremislv/LeetCode_problems/tree/master/0500-keyboard-row) |
@@ -1478,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/xtremislv/LeetCode_problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/xtremislv/LeetCode_problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/xtremislv/LeetCode_problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/1027-sum-of-even-numbers-after-queries) |
