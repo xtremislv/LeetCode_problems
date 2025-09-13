@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/xtremislv/LeetCode_problems/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
