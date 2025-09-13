@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/xtremislv/LeetCode_problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/xtremislv/LeetCode_problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/xtremislv/LeetCode_problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
@@ -909,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/xtremislv/LeetCode_problems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/xtremislv/LeetCode_problems/tree/master/0517-super-washing-machines) |
+| [0561-array-partition](https://github.com/xtremislv/LeetCode_problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/xtremislv/LeetCode_problems/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/xtremislv/LeetCode_problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/xtremislv/LeetCode_problems/tree/master/0900-reordered-power-of-2) |
@@ -2169,6 +2172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/xtremislv/LeetCode_problems/tree/master/0561-array-partition) |
 ## Randomized
 |  |
 | ------- |
