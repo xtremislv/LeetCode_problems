@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/xtremislv/LeetCode_problems/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0508-most-frequent-subtree-sum) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/xtremislv/LeetCode_problems/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/xtremislv/LeetCode_problems/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/xtremislv/LeetCode_problems/tree/master/0605-can-place-flowers) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/xtremislv/LeetCode_problems/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
@@ -1078,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/xtremislv/LeetCode_problems/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/xtremislv/LeetCode_problems/tree/master/0900-reordered-power-of-2) |
@@ -1402,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/xtremislv/LeetCode_problems/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
