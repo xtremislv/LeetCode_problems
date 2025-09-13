@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/xtremislv/LeetCode_problems/tree/master/0526-beautiful-arrangement) |
 | [0529-minesweeper](https://github.com/xtremislv/LeetCode_problems/tree/master/0529-minesweeper) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/xtremislv/LeetCode_problems/tree/master/0605-can-place-flowers) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/xtremislv/LeetCode_problems/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/xtremislv/LeetCode_problems/tree/master/0900-reordered-power-of-2) |
@@ -1422,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -1926,6 +1930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/xtremislv/LeetCode_problems/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0907-koko-eating-bananas](https://github.com/xtremislv/LeetCode_problems/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/xtremislv/LeetCode_problems/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/xtremislv/LeetCode_problems/tree/master/0914-random-point-in-non-overlapping-rectangles) |
