@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/xtremislv/LeetCode_problems/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/xtremislv/LeetCode_problems/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/xtremislv/LeetCode_problems/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1283,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/xtremislv/LeetCode_problems/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/xtremislv/LeetCode_problems/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/xtremislv/LeetCode_problems/tree/master/0504-base-7) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
