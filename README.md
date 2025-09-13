@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/xtremislv/LeetCode_problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/xtremislv/LeetCode_problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/xtremislv/LeetCode_problems/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0553-optimal-division) |
+| [0554-brick-wall](https://github.com/xtremislv/LeetCode_problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/xtremislv/LeetCode_problems/tree/master/0605-can-place-flowers) |
