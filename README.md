@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/xtremislv/LeetCode_problems/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0587-erect-the-fence](https://github.com/xtremislv/LeetCode_problems/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/xtremislv/LeetCode_problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
@@ -1370,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/xtremislv/LeetCode_problems/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -2302,6 +2304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/xtremislv/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/xtremislv/LeetCode_problems/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
+| [0587-erect-the-fence](https://github.com/xtremislv/LeetCode_problems/tree/master/0587-erect-the-fence) |
 | [0915-generate-random-point-in-a-circle](https://github.com/xtremislv/LeetCode_problems/tree/master/0915-generate-random-point-in-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
