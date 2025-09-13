@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0564-find-the-closest-palindrome) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0564-find-the-closest-palindrome) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
