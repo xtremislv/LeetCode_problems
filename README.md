@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/xtremislv/LeetCode_problems/tree/master/0526-beautiful-arrangement) |
+| [0529-minesweeper](https://github.com/xtremislv/LeetCode_problems/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/xtremislv/LeetCode_problems/tree/master/0605-can-place-flowers) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/xtremislv/LeetCode_problems/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/xtremislv/LeetCode_problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/xtremislv/LeetCode_problems/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/xtremislv/LeetCode_problems/tree/master/0529-minesweeper) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
@@ -1666,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/xtremislv/LeetCode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/xtremislv/LeetCode_problems/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/xtremislv/LeetCode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/xtremislv/LeetCode_problems/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/xtremislv/LeetCode_problems/tree/master/0547-number-of-provinces) |
@@ -1727,6 +1730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/xtremislv/LeetCode_problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/xtremislv/LeetCode_problems/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/xtremislv/LeetCode_problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/xtremislv/LeetCode_problems/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/xtremislv/LeetCode_problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
