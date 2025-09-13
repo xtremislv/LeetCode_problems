@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/xtremislv/LeetCode_problems/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/xtremislv/LeetCode_problems/tree/master/0546-remove-boxes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/xtremislv/LeetCode_problems/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/xtremislv/LeetCode_problems/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0488-zuma-game) |
+| [0546-remove-boxes](https://github.com/xtremislv/LeetCode_problems/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/xtremislv/LeetCode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/xtremislv/LeetCode_problems/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/xtremislv/LeetCode_problems/tree/master/0605-can-place-flowers) |
