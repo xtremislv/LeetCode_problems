@@ -1399,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/xtremislv/LeetCode_problems/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/xtremislv/LeetCode_problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0598-range-addition-ii) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -2350,6 +2351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/xtremislv/LeetCode_problems/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/xtremislv/LeetCode_problems/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/xtremislv/LeetCode_problems/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/xtremislv/LeetCode_problems/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/xtremislv/LeetCode_problems/tree/master/0915-generate-random-point-in-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
