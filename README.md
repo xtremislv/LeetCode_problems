@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/xtremislv/LeetCode_problems/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/xtremislv/LeetCode_problems/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/xtremislv/LeetCode_problems/tree/master/0500-keyboard-row) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/xtremislv/LeetCode_problems/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/xtremislv/LeetCode_problems/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/xtremislv/LeetCode_problems/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/xtremislv/LeetCode_problems/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/xtremislv/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/xtremislv/LeetCode_problems/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0491-non-decreasing-subsequences) |
@@ -1215,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/xtremislv/LeetCode_problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0420-strong-password-checker](https://github.com/xtremislv/LeetCode_problems/tree/master/0420-strong-password-checker) |
+| [0480-sliding-window-median](https://github.com/xtremislv/LeetCode_problems/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/xtremislv/LeetCode_problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/xtremislv/LeetCode_problems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/xtremislv/LeetCode_problems/tree/master/0621-task-scheduler) |
@@ -1981,6 +1984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/xtremislv/LeetCode_problems/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/xtremislv/LeetCode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/xtremislv/LeetCode_problems/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
