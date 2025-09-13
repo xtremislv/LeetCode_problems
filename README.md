@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/xtremislv/LeetCode_problems/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/xtremislv/LeetCode_problems/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0552-student-attendance-record-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
