@@ -816,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/xtremislv/LeetCode_problems/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/xtremislv/LeetCode_problems/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
