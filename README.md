@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/xtremislv/LeetCode_problems/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/xtremislv/LeetCode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/xtremislv/LeetCode_problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/xtremislv/LeetCode_problems/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/xtremislv/LeetCode_problems/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/xtremislv/LeetCode_problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/xtremislv/LeetCode_problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
