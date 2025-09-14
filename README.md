@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/xtremislv/LeetCode_problems/tree/master/0638-shopping-offers) |
 | [0639-decode-ways-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0650-2-keys-keyboard](https://github.com/xtremislv/LeetCode_problems/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1437,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0640-solve-the-equation](https://github.com/xtremislv/LeetCode_problems/tree/master/0640-solve-the-equation) |
+| [0650-2-keys-keyboard](https://github.com/xtremislv/LeetCode_problems/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
