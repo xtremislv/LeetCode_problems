@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-random-flip-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0913-random-flip-matrix) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/xtremislv/LeetCode_problems/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/xtremislv/LeetCode_problems/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/xtremislv/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1006-vowel-spellchecker](https://github.com/xtremislv/LeetCode_problems/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/xtremislv/LeetCode_problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1017-odd-even-jump](https://github.com/xtremislv/LeetCode_problems/tree/master/1017-odd-even-jump) |
 | [1018-largest-perimeter-triangle](https://github.com/xtremislv/LeetCode_problems/tree/master/1018-largest-perimeter-triangle) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/xtremislv/LeetCode_problems/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
 | [1026-string-without-aaa-or-bbb](https://github.com/xtremislv/LeetCode_problems/tree/master/1026-string-without-aaa-or-bbb) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/xtremislv/LeetCode_problems/tree/master/1030-smallest-string-starting-from-leaf) |
