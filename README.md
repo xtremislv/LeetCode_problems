@@ -1089,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/xtremislv/LeetCode_problems/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0672-bulb-switcher-ii) |
 | [0691-stickers-to-spell-word](https://github.com/xtremislv/LeetCode_problems/tree/master/0691-stickers-to-spell-word) |
+| [0693-binary-number-with-alternating-bits](https://github.com/xtremislv/LeetCode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/xtremislv/LeetCode_problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/xtremislv/LeetCode_problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
