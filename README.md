@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/xtremislv/LeetCode_problems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0676-implement-magic-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/xtremislv/LeetCode_problems/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/xtremislv/LeetCode_problems/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/xtremislv/LeetCode_problems/tree/master/0664-strange-printer) |
+| [0676-implement-magic-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
@@ -1740,6 +1742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/xtremislv/LeetCode_problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0676-implement-magic-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0859-design-circular-deque](https://github.com/xtremislv/LeetCode_problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/xtremislv/LeetCode_problems/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
@@ -1871,6 +1874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0672-bulb-switcher-ii) |
+| [0676-implement-magic-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -2350,6 +2354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/xtremislv/LeetCode_problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/0676-implement-magic-dictionary) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/xtremislv/LeetCode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/xtremislv/LeetCode_problems/tree/master/1397-search-suggestions-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/xtremislv/LeetCode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
