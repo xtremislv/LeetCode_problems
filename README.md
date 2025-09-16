@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/xtremislv/LeetCode_problems/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/xtremislv/LeetCode_problems/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/xtremislv/LeetCode_problems/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0697-degree-of-an-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
