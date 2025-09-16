@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1206,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/xtremislv/LeetCode_problems/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [0900-reordered-power-of-2](https://github.com/xtremislv/LeetCode_problems/tree/master/0900-reordered-power-of-2) |
 | [1017-odd-even-jump](https://github.com/xtremislv/LeetCode_problems/tree/master/1017-odd-even-jump) |
 | [1018-largest-perimeter-triangle](https://github.com/xtremislv/LeetCode_problems/tree/master/1018-largest-perimeter-triangle) |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/xtremislv/LeetCode_problems/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [1397-search-suggestions-system](https://github.com/xtremislv/LeetCode_problems/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xtremislv/LeetCode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/xtremislv/LeetCode_problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -1564,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -2056,6 +2060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/xtremislv/LeetCode_problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/xtremislv/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/xtremislv/LeetCode_problems/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/xtremislv/LeetCode_problems/tree/master/1020-longest-turbulent-subarray) |
@@ -2121,6 +2126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/xtremislv/LeetCode_problems/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/xtremislv/LeetCode_problems/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/xtremislv/LeetCode_problems/tree/master/0914-random-point-in-non-overlapping-rectangles) |
