@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/xtremislv/LeetCode_problems/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/xtremislv/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
@@ -1398,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/xtremislv/LeetCode_problems/tree/master/0661-image-smoother) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/xtremislv/LeetCode_problems/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0695-max-area-of-island](https://github.com/xtremislv/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
@@ -1912,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/xtremislv/LeetCode_problems/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/xtremislv/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1986,6 +1989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/xtremislv/LeetCode_problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/xtremislv/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0871-keys-and-rooms](https://github.com/xtremislv/LeetCode_problems/tree/master/0871-keys-and-rooms) |
@@ -2255,6 +2259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/xtremislv/LeetCode_problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/xtremislv/LeetCode_problems/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/xtremislv/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [1032-satisfiability-of-equality-equations](https://github.com/xtremislv/LeetCode_problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
