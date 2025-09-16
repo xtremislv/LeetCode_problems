@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0677-map-sum-pairs) |
+| [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/xtremislv/LeetCode_problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0682-baseball-game) |
+| [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
@@ -1159,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/xtremislv/LeetCode_problems/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
@@ -1894,6 +1897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0685-redundant-connection-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/xtremislv/LeetCode_problems/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1967,6 +1971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/xtremislv/LeetCode_problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0871-keys-and-rooms](https://github.com/xtremislv/LeetCode_problems/tree/master/0871-keys-and-rooms) |
