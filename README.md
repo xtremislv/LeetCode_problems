@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/xtremislv/LeetCode_problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
@@ -1679,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/xtremislv/LeetCode_problems/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/xtremislv/LeetCode_problems/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1714,6 +1716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/xtremislv/LeetCode_problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/xtremislv/LeetCode_problems/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/xtremislv/LeetCode_problems/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/xtremislv/LeetCode_problems/tree/master/1041-available-captures-for-rook) |
