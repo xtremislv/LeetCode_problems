@@ -1465,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/xtremislv/LeetCode_problems/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/xtremislv/LeetCode_problems/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0667-beautiful-arrangement-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/xtremislv/LeetCode_problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -2142,6 +2143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/xtremislv/LeetCode_problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/xtremislv/LeetCode_problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0907-koko-eating-bananas](https://github.com/xtremislv/LeetCode_problems/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/xtremislv/LeetCode_problems/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/xtremislv/LeetCode_problems/tree/master/0914-random-point-in-non-overlapping-rectangles) |
