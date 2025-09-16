@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0661-image-smoother](https://github.com/xtremislv/LeetCode_problems/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1353,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/xtremislv/LeetCode_problems/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/xtremislv/LeetCode_problems/tree/master/0661-image-smoother) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
