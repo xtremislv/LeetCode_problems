@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/xtremislv/LeetCode_problems/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1087-longest-arithmetic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/xtremislv/LeetCode_problems/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/xtremislv/LeetCode_problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/xtremislv/LeetCode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1250-longest-common-subsequence) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/xtremislv/LeetCode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1087-longest-arithmetic-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/xtremislv/LeetCode_problems/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/xtremislv/LeetCode_problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/xtremislv/LeetCode_problems/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/xtremislv/LeetCode_problems/tree/master/1319-unique-number-of-occurrences) |
