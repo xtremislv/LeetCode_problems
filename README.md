@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
+| [0794-swim-in-rising-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/xtremislv/LeetCode_problems/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/xtremislv/LeetCode_problems/tree/master/0859-design-circular-deque) |
@@ -1343,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/xtremislv/LeetCode_problems/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/xtremislv/LeetCode_problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0692-top-k-frequent-words) |
+| [0794-swim-in-rising-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/xtremislv/LeetCode_problems/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xtremislv/LeetCode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/xtremislv/LeetCode_problems/tree/master/1612-avoid-flood-in-the-city) |
@@ -1434,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/xtremislv/LeetCode_problems/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/xtremislv/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
+| [0794-swim-in-rising-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/1022-unique-paths-iii) |
@@ -1963,6 +1966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/xtremislv/LeetCode_problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0904-leaf-similar-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -2036,6 +2040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/xtremislv/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0794-swim-in-rising-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/xtremislv/LeetCode_problems/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/xtremislv/LeetCode_problems/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -2253,6 +2258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/xtremislv/LeetCode_problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0794-swim-in-rising-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/xtremislv/LeetCode_problems/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/xtremislv/LeetCode_problems/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/xtremislv/LeetCode_problems/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -2307,6 +2313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/xtremislv/LeetCode_problems/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/xtremislv/LeetCode_problems/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0794-swim-in-rising-water) |
 | [1032-satisfiability-of-equality-equations](https://github.com/xtremislv/LeetCode_problems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
