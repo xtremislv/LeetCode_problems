@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/xtremislv/LeetCode_problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/xtremislv/LeetCode_problems/tree/master/1612-avoid-flood-in-the-city) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/xtremislv/LeetCode_problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/xtremislv/LeetCode_problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/xtremislv/LeetCode_problems/tree/master/1813-maximum-erasure-value) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/xtremislv/LeetCode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/xtremislv/LeetCode_problems/tree/master/1656-count-good-triplets) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/xtremislv/LeetCode_problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/xtremislv/LeetCode_problems/tree/master/1813-maximum-erasure-value) |
@@ -1392,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/xtremislv/LeetCode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/xtremislv/LeetCode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/xtremislv/LeetCode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/xtremislv/LeetCode_problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/xtremislv/LeetCode_problems/tree/master/1833-find-the-highest-altitude) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/xtremislv/LeetCode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/xtremislv/LeetCode_problems/tree/master/2249-count-the-hidden-sequences) |
