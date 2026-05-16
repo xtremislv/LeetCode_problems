@@ -756,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/xtremislv/LeetCode_problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/xtremislv/LeetCode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/xtremislv/LeetCode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1803,6 +1804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/xtremislv/LeetCode_problems/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/xtremislv/LeetCode_problems/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
