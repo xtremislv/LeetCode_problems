@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/xtremislv/LeetCode_problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/xtremislv/LeetCode_problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/2562-count-ways-to-build-good-strings) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/xtremislv/LeetCode_problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/xtremislv/LeetCode_problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xtremislv/LeetCode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/xtremislv/LeetCode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/xtremislv/LeetCode_problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/xtremislv/LeetCode_problems/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/xtremislv/LeetCode_problems/tree/master/2888-minimum-index-of-a-valid-split) |
