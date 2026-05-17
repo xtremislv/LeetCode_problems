@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/xtremislv/LeetCode_problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0867-new-21-game) |
@@ -1567,6 +1568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/xtremislv/LeetCode_problems/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/xtremislv/LeetCode_problems/tree/master/0830-largest-triangle-area) |
