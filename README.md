@@ -957,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/xtremislv/LeetCode_problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/xtremislv/LeetCode_problems/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/xtremislv/LeetCode_problems/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/xtremislv/LeetCode_problems/tree/master/1023-time-based-key-value-store) |
@@ -2501,6 +2502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/xtremislv/LeetCode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/xtremislv/LeetCode_problems/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0796-rotate-string) |
 ## Counting Sort
 |  |
 | ------- |
