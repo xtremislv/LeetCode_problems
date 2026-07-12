@@ -1888,6 +1888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/xtremislv/LeetCode_problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0707-design-linked-list) |
+| [0715-range-module](https://github.com/xtremislv/LeetCode_problems/tree/master/0715-range-module) |
 | [0859-design-circular-deque](https://github.com/xtremislv/LeetCode_problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/xtremislv/LeetCode_problems/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
@@ -2488,6 +2489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/xtremislv/LeetCode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/xtremislv/LeetCode_problems/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/xtremislv/LeetCode_problems/tree/master/0715-range-module) |
 | [2280-count-good-triplets-in-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/xtremislv/LeetCode_problems/tree/master/3161-block-placement-queries) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/xtremislv/LeetCode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -2513,6 +2515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/xtremislv/LeetCode_problems/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/xtremislv/LeetCode_problems/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/xtremislv/LeetCode_problems/tree/master/0715-range-module) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/xtremislv/LeetCode_problems/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1017-odd-even-jump](https://github.com/xtremislv/LeetCode_problems/tree/master/1017-odd-even-jump) |
 | [2023-design-movie-rental-system](https://github.com/xtremislv/LeetCode_problems/tree/master/2023-design-movie-rental-system) |
