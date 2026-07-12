@@ -972,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/xtremislv/LeetCode_problems/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/xtremislv/LeetCode_problems/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/xtremislv/LeetCode_problems/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/xtremislv/LeetCode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/xtremislv/LeetCode_problems/tree/master/0796-rotate-string) |
