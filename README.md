@@ -1236,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/xtremislv/LeetCode_problems/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/xtremislv/LeetCode_problems/tree/master/0690-employee-importance) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0772-construct-quad-tree) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
@@ -2172,6 +2173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/xtremislv/LeetCode_problems/tree/master/0687-longest-univalue-path) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/xtremislv/LeetCode_problems/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/xtremislv/LeetCode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -2626,6 +2628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xtremislv/LeetCode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0669-trim-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Iterator
 |  |
