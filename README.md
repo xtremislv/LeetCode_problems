@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/xtremislv/LeetCode_problems/tree/master/0706-design-hashmap) |
+| [0710-random-pick-with-blacklist](https://github.com/xtremislv/LeetCode_problems/tree/master/0710-random-pick-with-blacklist) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/xtremislv/LeetCode_problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/xtremislv/LeetCode_problems/tree/master/0706-design-hashmap) |
+| [0710-random-pick-with-blacklist](https://github.com/xtremislv/LeetCode_problems/tree/master/0710-random-pick-with-blacklist) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
@@ -1323,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/xtremislv/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0692-top-k-frequent-words) |
+| [0710-random-pick-with-blacklist](https://github.com/xtremislv/LeetCode_problems/tree/master/0710-random-pick-with-blacklist) |
 | [0900-reordered-power-of-2](https://github.com/xtremislv/LeetCode_problems/tree/master/0900-reordered-power-of-2) |
 | [1017-odd-even-jump](https://github.com/xtremislv/LeetCode_problems/tree/master/1017-odd-even-jump) |
 | [1018-largest-perimeter-triangle](https://github.com/xtremislv/LeetCode_problems/tree/master/1018-largest-perimeter-triangle) |
@@ -1598,6 +1601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/xtremislv/LeetCode_problems/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/xtremislv/LeetCode_problems/tree/master/0679-24-game) |
+| [0710-random-pick-with-blacklist](https://github.com/xtremislv/LeetCode_problems/tree/master/0710-random-pick-with-blacklist) |
 | [0788-rotated-digits](https://github.com/xtremislv/LeetCode_problems/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/xtremislv/LeetCode_problems/tree/master/0826-soup-servings) |
@@ -2329,6 +2333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/xtremislv/LeetCode_problems/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/xtremislv/LeetCode_problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/xtremislv/LeetCode_problems/tree/master/0704-binary-search) |
+| [0710-random-pick-with-blacklist](https://github.com/xtremislv/LeetCode_problems/tree/master/0710-random-pick-with-blacklist) |
 | [0794-swim-in-rising-water](https://github.com/xtremislv/LeetCode_problems/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/xtremislv/LeetCode_problems/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/xtremislv/LeetCode_problems/tree/master/0912-random-pick-with-weight) |
@@ -2565,6 +2570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/xtremislv/LeetCode_problems/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0398-random-pick-index) |
+| [0710-random-pick-with-blacklist](https://github.com/xtremislv/LeetCode_problems/tree/master/0710-random-pick-with-blacklist) |
 | [0903-implement-rand10-using-rand7](https://github.com/xtremislv/LeetCode_problems/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/xtremislv/LeetCode_problems/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/xtremislv/LeetCode_problems/tree/master/0913-random-flip-matrix) |
