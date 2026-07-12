@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/xtremislv/LeetCode_problems/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/xtremislv/LeetCode_problems/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/xtremislv/LeetCode_problems/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [0740-delete-and-earn](https://github.com/xtremislv/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/xtremislv/LeetCode_problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/xtremislv/LeetCode_problems/tree/master/0797-rabbits-in-forest) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/xtremislv/LeetCode_problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0699-falling-squares](https://github.com/xtremislv/LeetCode_problems/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/xtremislv/LeetCode_problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/xtremislv/LeetCode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/xtremislv/LeetCode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/xtremislv/LeetCode_problems/tree/master/0735-asteroid-collision) |
@@ -1874,6 +1876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/xtremislv/LeetCode_problems/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/xtremislv/LeetCode_problems/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/xtremislv/LeetCode_problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [0859-design-circular-deque](https://github.com/xtremislv/LeetCode_problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/xtremislv/LeetCode_problems/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
@@ -2596,6 +2599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/xtremislv/LeetCode_problems/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/xtremislv/LeetCode_problems/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/xtremislv/LeetCode_problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/xtremislv/LeetCode_problems/tree/master/0860-design-circular-queue) |
@@ -2609,6 +2613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/xtremislv/LeetCode_problems/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/xtremislv/LeetCode_problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/xtremislv/LeetCode_problems/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/xtremislv/LeetCode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Doubly-Linked List
 |  |
