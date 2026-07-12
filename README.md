@@ -1880,6 +1880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/xtremislv/LeetCode_problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/xtremislv/LeetCode_problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0707-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/xtremislv/LeetCode_problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/xtremislv/LeetCode_problems/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/xtremislv/LeetCode_problems/tree/master/0937-online-stock-span) |
@@ -2604,6 +2605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/xtremislv/LeetCode_problems/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/xtremislv/LeetCode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/xtremislv/LeetCode_problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0707-design-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/xtremislv/LeetCode_problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/xtremislv/LeetCode_problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/xtremislv/LeetCode_problems/tree/master/0860-design-circular-queue) |
